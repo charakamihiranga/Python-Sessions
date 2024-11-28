@@ -2,7 +2,9 @@
 import math # importing math module
 # import math as m # importing math module with alias name m
 
-from my_module import add # importing add function from my_module
+# from my_module import add # importing add function from my_module
+
+from my_module import * # importing all functions from my_module(not recommended)
 
 # print(my_module.add(1, 2))
 
