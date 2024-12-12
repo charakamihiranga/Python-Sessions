@@ -1,0 +1,4 @@
+charaka 123456 charaka@gmail.com
+abc, 123456, abc@gmail.com
+xyz, 3216549, xyz@gmail.com
+aad, 123432, aad@example.com
